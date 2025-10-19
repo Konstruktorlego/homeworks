@@ -1,0 +1,28 @@
+
+h1 {
+    color: #444444;
+}
+
+h2 {
+    color: #555555;
+}
+
+h3 {
+    color: #777777;
+}
+
+.model_list {
+    color: green;
+}
+
+div {
+    color: blue;
+}
+
+a {
+    color: red;
+}
+
+.model_b120, .model_b130, .model_b134, .model_111, .model_lux {
+    color: purple;
+}
